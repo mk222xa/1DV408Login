@@ -1,0 +1,23 @@
+html {
+    background-color:#e2e2e2;
+}
+
+body {
+    background-color: #0094ff;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
+}
+
+a {
+    color: #333;
+}
+
+header, footer,
+nav, section {
+    display: block;
+}
+
+/*Main layout
+------------------------------------------------------- */
+
+
+
